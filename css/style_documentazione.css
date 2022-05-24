@@ -16,9 +16,15 @@ body {
 
 #titolo {color:#f3ecf9; margin-top: 5%; margin-bottom: 5%; font-size: 50px}
 
+
+
 main {padding: 5%; background-color: #f3ecf9; border-radius: 20px; margin-right: 3%; margin-left: 3%}
 
 li {list-style-type: decimal;}
+#sottomenu {list-style-type: disc; color:#8d42c7; font-size: 20px}
+
+#link {color:#8d42c7; text-decoration: none; }
+#link:hover {color: #D43BB4}
 
 #abstract  {color:#8d42c7;}
 #PMP {color:#8d42c7;}
@@ -31,3 +37,29 @@ li {list-style-type: decimal;}
 #target {color:#D43BB4;}
 #promozione {color:#D43BB4;}
 #valutazione {color:#D43BB4;}
+
+p {text-align: justify;}
+
+#architettura {max-width: 90%;}
+#wireframe {max-width:65%;}
+
+#elencolinguaggi {list-style-type: none;}
+
+h5 {color:#8d42c7 !important;}
+
+#torna {
+	text-align: center;
+	border-radius: 20px;
+	font-size: 18px;
+	width: 150px;
+	display:block;
+	background-color:#8c42d7; 
+	border-color: #8c42d7;
+	margin-top: 15%;
+	margin-bottom: 20%;
+}
+#torna:hover {background-color: #D43BB4; border-color: #D43BB4; color:#f3ecf9;}
+.scrittabianca {text-decoration: none; color: #f3ecf9;}
+.scrittabianca:hover {text-decoration: none; color: #f3ecf9;}
+
+#indice {font-size: 20px; text-align: center}
