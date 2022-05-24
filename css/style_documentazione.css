@@ -40,8 +40,8 @@ li {list-style-type: decimal;}
 
 p {text-align: justify;}
 
-#architettura {max-width: 90%;}
-#wireframe {max-width:65%;}
+#architettura {max-width: 90% !important;}
+#wireframe {max-width:65% !important;}
 
 #elencolinguaggi {list-style-type: none;}
 
