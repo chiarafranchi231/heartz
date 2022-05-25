@@ -13,7 +13,7 @@ body {max-width:100%;
 /*HEADER*/
 header {
 	background-image: url(../img/sfondo_scritta.png);
-	background-size: 100%; max-height: 98%; 
+	background-size: 100%; max-height: 150%; 
 	background-position: center; background-repeat: no-repeat;
 	margin-top: 0;
 	padding-bottom: 5%;
