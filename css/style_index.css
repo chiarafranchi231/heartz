@@ -8,6 +8,7 @@ html, body {
 body {max-width:100%;
 	font-family: 'gravity-ultralight', sans-serif; 
 	background-color: #f3ecf9 !important;
+	scroll-behavior: smooth;
 }
 
 /*HEADER*/
