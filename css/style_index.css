@@ -9,7 +9,7 @@ body {max-width:100%;
 	font-family: 'gravity-ultralight', sans-serif; 
 	background-color: #f3ecf9 !important;
 	scroll-behavior: smooth;
-overflow-x:hidden;}
+	overflow-x: hidden;}
 
 /*HEADER*/
 header {
@@ -32,8 +32,11 @@ nav ul li {
 .scrittabianca {text-decoration: none; color: #f3ecf9;}
 .scrittabianca:hover {text-decoration: none; color: #f3ecf9;}
 
-#scrittanera {color: black;}
-#scrittanera:hover {color: #8c42d7;}
+#english {color: black;}
+#english:hover {color: #8c42d7;}
+
+#italiano {color: black;}
+#italiano:hover {color: #8c42d7;}
 
 .logo {width: 50px; height: auto; margin-right:10%; margin-left: 5%}
 .scritta {width:100px; height: auto;}
@@ -97,7 +100,7 @@ nav ul li {
 #scarica:hover {background-color: #D43BB4; border-color: #D43BB4; color:#f3ecf9;}
 
 /*SPIEGAZIONE*/
-#icone {margin-bottom: 5%;}
+.icone {margin-bottom: 5%;}
 
 .titoletti {font-size: 20px;}
 
@@ -130,6 +133,6 @@ footer {
 
 #logofooter {text-align: center; width: 150px; height:auto; padding-top: 5%; padding-bottom:0;}
 
-#social {margin-left: 3%; margin-right:3%; margin-top: 5%}
-#social:hover {opacity: 70%}
+.social {margin-left: 3%; margin-right:3%; margin-top: 5%}
+.social:hover {opacity: 70%}
 

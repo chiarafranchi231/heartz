@@ -39,7 +39,7 @@ main {padding: 5%; background-color: #f3ecf9; border-radius: 20px}
   border-top-right-radius: 0;
 }
 
-#bottoni {
+#accedi, #registrati {
   text-align: center; 
   background-color: #8c42d7;
   border-radius: 20px;
@@ -48,9 +48,10 @@ main {padding: 5%; background-color: #f3ecf9; border-radius: 20px}
   border-color: #8c42d7;
   width: 30px;
 }
-#bottoni:hover{background-color: #D43BB4; border-color: #D43BB4}
+#accedi:hover{background-color: #D43BB4; border-color: #D43BB4}
+#registrati:hover{background-color: #D43BB4; border-color: #D43BB4}
 
-#testobianco {text-decoration: none; color: #8c42d7}
+.testobianco {text-decoration: none; color: #8c42d7}
 
 #iscriviti {text-decoration: none; color: #8c42d7; font-size: 27px; margin-top: 7%}
 
